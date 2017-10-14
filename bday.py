@@ -17,7 +17,7 @@ import csv
 import sys
 import datetime
 import commands
-mailto = "trohit+date@gmail.com"
+mailto = "trohit_dummy_id@gmail.com"
 
 # temporary file to be mailed 
 body_file = "body.txt"
